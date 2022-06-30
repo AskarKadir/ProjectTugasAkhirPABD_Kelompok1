@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\bin\Debug\UASKELOMPOK.exe.config
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\bin\Debug\UASKELOMPOK.exe
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\bin\Debug\UASKELOMPOK.pdb
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.AdminDashboard.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.Daftar.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.Login.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.Properties.Resources.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.exe
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.pdb
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.GagalSiswa.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.SiswaDashboard.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\TUGAS AKHIR\UASKELOMPOK\obj\Debug\UASKELOMPOK.NungguPengumuman.resources

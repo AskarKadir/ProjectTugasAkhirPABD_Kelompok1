@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="tugasakhirpart3DataSet" targetNamespace="http://tempuri.org/tugasakhirpart3DataSet.xsd" xmlns:mstns="http://tempuri.org/tugasakhirpart3DataSet.xsd" xmlns="http://tempuri.org/tugasakhirpart3DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="tugasakhirpart3ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="tugasakhirpart3ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.UASKELOMPOK.Properties.Settings.GlobalReference.Default.tugasakhirpart3ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tampilanAdminTableAdapter" GeneratorDataComponentClassName="tampilanAdminTableAdapter" Name="tampilanAdmin" UserDataComponentName="tampilanAdminTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="tugasakhirpart3ConnectionString (Settings)" DbObjectName="tugasakhirpart3.dbo.tampilanAdmin" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Nama_Siswa, NISN, Tanggal_Lahir, Tingkatan_Kelas, Wali_Kelas, Hasil_Siswa FROM dbo.tampilanAdmin</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Nama_Siswa" DataSetColumn="Nama_Siswa" />
+              <Mapping SourceColumn="NISN" DataSetColumn="NISN" />
+              <Mapping SourceColumn="Tanggal_Lahir" DataSetColumn="Tanggal_Lahir" />
+              <Mapping SourceColumn="Tingkatan_Kelas" DataSetColumn="Tingkatan_Kelas" />
+              <Mapping SourceColumn="Wali_Kelas" DataSetColumn="Wali_Kelas" />
+              <Mapping SourceColumn="Hasil_Siswa" DataSetColumn="Hasil_Siswa" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="tugasakhirpart3DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="tugasakhirpart3DataSet" msprop:Generator_UserDSName="tugasakhirpart3DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tampilanAdmin" msprop:Generator_TableClassName="tampilanAdminDataTable" msprop:Generator_TableVarName="tabletampilanAdmin" msprop:Generator_TablePropName="tampilanAdmin" msprop:Generator_RowDeletingName="tampilanAdminRowDeleting" msprop:Generator_RowChangingName="tampilanAdminRowChanging" msprop:Generator_RowEvHandlerName="tampilanAdminRowChangeEventHandler" msprop:Generator_RowDeletedName="tampilanAdminRowDeleted" msprop:Generator_UserTableName="tampilanAdmin" msprop:Generator_RowChangedName="tampilanAdminRowChanged" msprop:Generator_RowEvArgName="tampilanAdminRowChangeEvent" msprop:Generator_RowClassName="tampilanAdminRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nama_Siswa" msprop:Generator_ColumnVarNameInTable="columnNama_Siswa" msprop:Generator_ColumnPropNameInRow="Nama_Siswa" msprop:Generator_ColumnPropNameInTable="Nama_SiswaColumn" msprop:Generator_UserColumnName="Nama_Siswa">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NISN" msprop:Generator_ColumnVarNameInTable="columnNISN" msprop:Generator_ColumnPropNameInRow="NISN" msprop:Generator_ColumnPropNameInTable="NISNColumn" msprop:Generator_UserColumnName="NISN">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tanggal_Lahir" msprop:Generator_ColumnVarNameInTable="columnTanggal_Lahir" msprop:Generator_ColumnPropNameInRow="Tanggal_Lahir" msprop:Generator_ColumnPropNameInTable="Tanggal_LahirColumn" msprop:Generator_UserColumnName="Tanggal_Lahir" type="xs:dateTime" />
+              <xs:element name="Tingkatan_Kelas" msprop:Generator_ColumnVarNameInTable="columnTingkatan_Kelas" msprop:Generator_ColumnPropNameInRow="Tingkatan_Kelas" msprop:Generator_ColumnPropNameInTable="Tingkatan_KelasColumn" msprop:Generator_UserColumnName="Tingkatan_Kelas">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Wali_Kelas" msprop:Generator_ColumnVarNameInTable="columnWali_Kelas" msprop:Generator_ColumnPropNameInRow="Wali_Kelas" msprop:Generator_ColumnPropNameInTable="Wali_KelasColumn" msprop:Generator_UserColumnName="Wali_Kelas">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Hasil_Siswa" msprop:Generator_ColumnVarNameInTable="columnHasil_Siswa" msprop:Generator_ColumnPropNameInRow="Hasil_Siswa" msprop:Generator_ColumnPropNameInTable="Hasil_SiswaColumn" msprop:Generator_UserColumnName="Hasil_Siswa">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="11" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tampilanAdmin" />
+      <xs:field xpath="mstns:NISN" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
